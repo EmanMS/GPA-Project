@@ -1,4 +1,5 @@
 # Getting Started With GPA-Project
+### The Project is connected to the database.
 
 ### Intro :
 The GPA Calculator with User and Admin Login is a Java application 
@@ -6,6 +7,7 @@ that enables users to calculate their Grade Point Average (GPA) and provides log
 It also allows the Admin to enter the students' GPA and store this in the database. 
 The application allows users to input their course grades, credit hours, and calculate their GPA.
 Additionally, it provides authentication mechanisms for admin access.
+
 
 
 <div>
